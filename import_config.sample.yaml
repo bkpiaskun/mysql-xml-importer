@@ -1,0 +1,19 @@
+xml_filepath: 'data.sample.xml'
+field_name: 'field'
+record_name: 'row'
+db_host: 'host'
+db_user: 'user'
+db_password: 'password'
+db_name: 'dbname'
+insert_count: 1000
+destination_table: "dest_table"
+table_fields:
+  - ID
+  - Sensor_ID
+  - Timestamp_Of_Reading
+  - AVG_Humidity
+  - Max_Humidity
+  - Min_Humidity
+  - AVG_Temperature
+  - Max_Temperature
+  - Min_Temperature

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1250"?>
+
+<table_data name="Sensor_Readings">
+	<row>
+		<field>3473957</field>
+		<field>11</field>
+		<field>2020-07-05 01:06:33</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>16.94</field>
+		<field>16.94</field>
+		<field>16.94</field>
+	</row>
+	<row>
+		<field>3473958</field>
+		<field>12</field>
+		<field>2020-07-05 01:06:52</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-18.77</field>
+		<field>-18.69</field>
+		<field>-18.81</field>
+	</row>
+	<row>
+		<field>3473959</field>
+		<field>14</field>
+		<field>2020-07-05 01:06:52</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-21.22</field>
+		<field>-21.19</field>
+		<field>-21.25</field>
+	</row>
+	<row>
+		<field>3473960</field>
+		<field>8</field>
+		<field>2020-07-05 01:06:52</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-1</field>
+		<field>-18.06</field>
+		<field>-18.06</field>
+		<field>-18.06</field>
+	</row>
+</table_data>
